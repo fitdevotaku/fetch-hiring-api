@@ -5,4 +5,8 @@ public class Item {
     public int listId;
     public int id;
     public String name;
+
+    public Item() {
+
+    }
 }
